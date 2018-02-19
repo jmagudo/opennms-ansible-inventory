@@ -3,7 +3,6 @@
 '''
 OpenNMS dynamic inventory
 Query OpenNMS REST API to obtain nodes and categories
-
 '''
 
 import os
