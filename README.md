@@ -19,8 +19,8 @@ ansible-playbook -i opennms.py test.yml
 
 In this version the following variables are returned by the dynamic inventory as host variables:
 
-description
-location
-device_ip
+* description
+* location
+* device_ip
 
 Also all the categories present in OpenNMS are returned.
